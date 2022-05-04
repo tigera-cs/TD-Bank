@@ -107,7 +107,7 @@ ssh worker1
 Make sure calicoctl binary installed on your worker1 node.
 
 ```
-curl -o calicoctl -O -L  "https://github.com/projectcalico/calicoctl/releases/download/v3.21.0/calicoctl"
+curl -o calicoctl -O -L  "https://github.com/projectcalico/calicoctl/releases/download/v3.22.2/calicoctl"
 ```
 ```
 chmod +x calicoctl
